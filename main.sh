@@ -1,5 +1,2 @@
-echo telebot
-pip3 install flask
-pip3 install telebot
-pip3 install pytelegrambotapi
+echo telebot adminpanel starting
 python3 main.py
